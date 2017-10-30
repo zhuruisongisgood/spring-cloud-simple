@@ -1,0 +1,6 @@
+rootProject.name = 'my-cloud'
+include 'registry'
+include 'server-a'
+include 'client-feign'
+include 'turbine'
+
